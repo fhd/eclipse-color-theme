@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.github.fhd.eclipsecolortheme.feature_0.1.0.201101060222.jar" id="com.github.fhd.eclipsecolortheme.feature" version="0.1.0.201101060222">
+   <feature url="features/com.github.fhd.eclipsecolortheme.feature_0.1.1.201101061548.jar" id="com.github.fhd.eclipsecolortheme.feature" version="0.1.1.201101061548">
       <category name="com.github.fhd.eclipsecolortheme"/>
    </feature>
    <category-def name="com.github.fhd.eclipsecolortheme" label="Eclipse Color Theme"/>
