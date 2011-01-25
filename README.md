@@ -3,6 +3,8 @@ Eclipse Color Theme
 
 Color themes for Eclipse.
 
+**Please note: The repository has been moved to [http://github.com/eclipse-color-theme/eclipse-color-theme](http://github.com/eclipse-color-theme/eclipse-color-theme) and this one is no longer updated.**
+
 Eclipse Color Theme makes it possible to switch color themes
 conveniently and without side effects. Support for importing themes is
 planned.
